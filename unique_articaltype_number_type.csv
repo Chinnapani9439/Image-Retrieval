@@ -1,0 +1,142 @@
+type,number_type
+Shirts,0
+Jeans,1
+Watches,2
+Track Pants,3
+Tshirts,4
+Socks,5
+Casual Shoes,6
+Belts,7
+Flip Flops,8
+Handbags,9
+Tops,10
+Bra,11
+Sandals,12
+Shoe Accessories,13
+Sweatshirts,14
+Deodorant,15
+Formal Shoes,16
+Bracelet,17
+Lipstick,18
+Flats,19
+Kurtas,20
+Waistcoat,21
+Sports Shoes,22
+Shorts,23
+Briefs,24
+Sarees,25
+Perfume and Body Mist,26
+Heels,27
+Sunglasses,28
+Innerwear Vests,29
+Pendant,30
+Nail Polish,31
+Laptop Bag,32
+Scarves,33
+Rain Jacket,34
+Dresses,35
+Night suits,36
+Skirts,37
+Wallets,38
+Blazers,39
+Ring,40
+Kurta Sets,41
+Clutches,42
+Shrug,43
+Backpacks,44
+Caps,45
+Trousers,46
+Earrings,47
+Camisoles,48
+Boxers,49
+Jewellery Set,50
+Dupatta,51
+Capris,52
+Lip Gloss,53
+Bath Robe,54
+Mufflers,55
+Tunics,56
+Jackets,57
+Trunk,58
+Lounge Pants,59
+Face Wash and Cleanser,60
+Necklace and Chains,61
+Duffel Bag,62
+Sports Sandals,63
+Foundation and Primer,64
+Sweaters,65
+Free Gifts,66
+Trolley Bag,67
+Tracksuits,68
+Swimwear,69
+Shoe Laces,70
+Fragrance Gift Set,71
+Bangle,72
+Nightdress,73
+Ties,74
+Baby Dolls,75
+Leggings,76
+Highlighter and Blush,77
+Travel Accessory,78
+Kurtis,79
+Mobile Pouch,80
+Messenger Bag,81
+Lip Care,82
+Face Moisturisers,83
+Compact,84
+Eye Cream,85
+Accessory Gift Set,86
+Beauty Accessory,87
+Jumpsuit,88
+Kajal and Eyeliner,89
+Water Bottle,90
+Suspenders,91
+Lip Liner,92
+Robe,93
+Salwar and Dupatta,94
+Patiala,95
+Stockings,96
+Eyeshadow,97
+Headband,98
+Tights,99
+Nail Essentials,100
+Churidar,101
+Lounge Tshirts,102
+Face Scrub and Exfoliator,103
+Lounge Shorts,104
+Gloves,105
+Mask and Peel,106
+Wristbands,107
+Tablet Sleeve,108
+Ties and Cufflinks,109
+Footballs,110
+Stoles,111
+Shapewear,112
+Nehru Jackets,113
+Salwar,114
+Cufflinks,115
+Jeggings,116
+Hair Colour,117
+Concealer,118
+Rompers,119
+Body Lotion,120
+Sunscreen,121
+Booties,122
+Waist Pouch,123
+Hair Accessory,124
+Rucksacks,125
+Basketballs,126
+Lehenga Choli,127
+Clothing Set,128
+Mascara,129
+Toner,130
+Cushion Covers,131
+Key chain,132
+Makeup Remover,133
+Lip Plumper,134
+Umbrellas,135
+Face Serum and Gel,136
+Hat,137
+Mens Grooming Kit,138
+Rain Trousers,139
+Body Wash and Scrub,140
